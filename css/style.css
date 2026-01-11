@@ -8,14 +8,14 @@
 
 /* Base */
 body {
-  background-color:#f7c44438;
+  background-color:#fcb90f38;
   color: #1f2937;
   line-height: 1.6;
 }
 
 /* Navigation */
 .navbar {
-  background: #ffffff;
+  background: #f7c44438;
   border-bottom: 1px solid #e5e7eb;
   position: sticky;
   top: 0;
@@ -69,6 +69,7 @@ body {
 .nav-links a {
   text-decoration: none;
   color: #1f2937;
+  font-weight: 700;
   font-size: 0.95rem;
   padding: 5px 10px;
   border-radius: 5px;
@@ -83,7 +84,7 @@ body {
 /* Hero Section */
 .hero {
   text-align: center;
-  background: #ffffff;
+  background: #f7c44438;
   padding: 80px 20px;
   border-radius: 10px;
   margin: 20px auto;
@@ -114,9 +115,15 @@ section {
   max-width: 1100px;
   margin: 40px auto;
   padding: 40px 20px;
-  background: #ffffff;
+  background: #f7c44438;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.my-career{
+    text-decoration: none;
+    color: #1f2937;
+    font-weight: bold;
 }
 
 /* Headings */
@@ -201,6 +208,9 @@ h2 {
   text-decoration: underline;
 }
 
+
+/* Career Goals */
+
 .career-goals {
   font-style: italic;
   color: #6b7280;
@@ -238,7 +248,7 @@ padding-left: 10px;
 
 /* Footer */
 footer {
-  background: #ffffff;
+  background: #f7c44438;
   text-align: center;
   padding: 20px;
   color: #1f2937;
