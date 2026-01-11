@@ -146,7 +146,10 @@ h2 {
   color: #3b82f6;
   margin-bottom: 10px;
 }
-
+.skills h4{
+    color: #1f2937;
+    margin-bottom: 5px;
+}
 .skills ul {
   list-style: square;
   margin-left: 20px;
